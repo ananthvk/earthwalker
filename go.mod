@@ -9,7 +9,6 @@ require (
 	github.com/golang/geo v0.0.0-20200319012246-673a6f80352d
 	github.com/golang/protobuf v1.4.2 // indirect
 	github.com/pkg/errors v0.9.1
-	golang.org/x/net v0.0.0-20200602114024-627f9648deb9 // indirect
-	golang.org/x/sys v0.0.0-20200610111108-226ff32320da // indirect
+	golang.org/x/net v0.7.0 // indirect
 	google.golang.org/protobuf v1.24.0 // indirect
 )
